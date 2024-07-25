@@ -1,10 +1,9 @@
-import ColorPicker from  './ColorPicker.jsx';
-import MyComponent from './MyComponent.jsx';
+import Stopwatch from './Stopwatch.jsx';
 
 
 function App() {
 
-  return(<MyComponent/>);
+  return(<Stopwatch/>);
 }
 
 export default App
